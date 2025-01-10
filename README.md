@@ -151,7 +151,7 @@ MySQL
 
 <img src="./Images/Q26.png" alt="Q26.png" width="400"/> &nbsp;
 
-27. Retrieve details of a sample of products (e.g., top 5 by release year)?
+27. Retrieve details of a sample of products (top 5 by release year)?
 
 <img src="./Images/Q27.png" alt="Q27.png" width="400" height="150"/> &nbsp;
 
