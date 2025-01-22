@@ -155,7 +155,7 @@ MySQL
 
 <img src="./Images/Q27.png" alt="Q27.png" width="400" height="150"/> &nbsp;
 
-## Project Objectives:
+## Conclusion:
 This analysis provides actionable insights to enhance Samsung's sales strategies, optimize inventory management, and identify key revenue drivers. By understanding product performance and sales trends, the business can make informed decisions to improve profitability and customer satisfaction.
 
 
